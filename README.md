@@ -1,2 +1,3 @@
 # cppbreaker.github.io
-tryine my blog site
+tryin mgy first blog site
+
